@@ -1,0 +1,25 @@
+Unity 3D, C#
+
+Procedural room/map generation.
+
+Part1. 
+3D Room prefab with corridors. And Start and End Room.
+
+T L + - shape room connections.
+
+Control number of Rooms to generate.
+
+
+PART2.
+Prefab of iterating Room and Start and End Room.
+
+4 different shape of Corridors ( I L T +)
+
+StartRoom - Corridor - Room - Corridor - Room - - - - EndRoom.
+
+
+This project game? logic is "project-shasta" work 
+
+(https://www.youtube.com/user/Shasta9284/search?query=random)
+
+Thanks!
