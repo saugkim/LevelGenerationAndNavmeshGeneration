@@ -1,9 +1,10 @@
 Unity 3D, C#
 
 Procedural room/map generation.
+Using 3D Prefab.
 
 Part1. 
-3D Room prefab with corridors. And Start and End Room.
+Iterating Room with corridors. And Start and End Room.
 
 T L + - shape room connections.
 
