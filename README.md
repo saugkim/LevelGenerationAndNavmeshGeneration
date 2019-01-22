@@ -6,6 +6,7 @@ Unity3D, C#
 Procedural room/map generation.
 Using 3D Prefab.
 
+\
 
 PART1.
 Iterating Room with connectors. And Start and End Room.
@@ -15,7 +16,7 @@ T L + - shape room connections.
 Control number of Rooms to generate.
 
 
-
+\
 PART2.
 Iterating Room andStart and End Room.
 
@@ -24,7 +25,7 @@ Iterating Room andStart and End Room.
 StartRoom - Corridor - Room - Corridor - Room - - - - EndRoom.
 
 
-
+\
 PART3.
 Iterating Room (4 different rooms depend on the door position: Deadend, I, L and T type door)
 
@@ -36,7 +37,7 @@ additional feature when the map generated, build navmesh to the map runtime buil
 using NavMeshComponents assets by Unity-Technologies.
 download from github/Unity-Technologies/NavMeshComponents 
 
-
+\
 This work' logic is "project-shasta"  
 
 (https://www.youtube.com/user/Shasta9284/search?query=random)
