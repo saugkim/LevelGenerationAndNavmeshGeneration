@@ -3,7 +3,8 @@ Unity3D Personal project, Procedural room generation, Jan 2019
 
 Unity3D, C#
 
-Procedural room/map generation.
+Procedural room/map generation. \
+Runtime NavMesh build. \
 Using 3D Prefab. 
 
 \
